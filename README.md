@@ -1,4 +1,6 @@
-# Udacity A/B Testing — Statistical Significance & CUPED Variance Reduction
+# Causal Impact Analysis of User Interface Changes Using A/B Testing
+
+This project uses a publicly available Udacity experimentation dataset to evaluate the causal impact of UI changes on user conversion behavior.
 
 This project analyzes an A/B experiment on a Udacity-style course signup page.
 

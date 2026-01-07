@@ -1,4 +1,4 @@
-# Causal Impact Analysis of User Interface Changes Using A/B Testing
+# Causal impact analysis of UI changes using A/B Testing 
 
 This project uses a publicly available Udacity experimentation dataset to evaluate the causal impact of UI changes on user conversion behavior.
 
